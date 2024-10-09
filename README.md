@@ -1,7 +1,6 @@
 # jpa01-SexyCarrots
 
-Deployed at: [https://jpa01-replace-me.dokku-xx.cs.ucsb.edu
-](https://jpa01-sexycarrots.dokku-06.cs.ucsb.edu/)
+Deployed at: https://jpa01-sexycarrots.dokku-06.cs.ucsb.edu/
 
 # About this repo
 
